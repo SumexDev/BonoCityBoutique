@@ -145,7 +145,7 @@ header button{
   cursor:pointer;
 }
 .cards .card img{
-  width: 100px;
+  width: 500px;
 }
 .cards .card .card-header{
   display: flex;
